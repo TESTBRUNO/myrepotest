@@ -10,5 +10,5 @@ git status - узнать статус гит на текущий момент
 
 cmdkey /delete:LegacyGeneric:target=git:https://github.com
 
-
+Изменияю код. Всем привет!
 
