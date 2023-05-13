@@ -10,6 +10,7 @@ git status - узнать статус гит на текущий момент
 
 cmdkey /delete:LegacyGeneric:target=git:https://github.com
 
+dadadadadadad
 
 
 rfr nj nfr
